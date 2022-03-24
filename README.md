@@ -1,21 +1,21 @@
-# Projeto LabeNinjas
+# 🕵🏻‍♀️ Projeto LabeNinjas
 
-## Link Surge
+## 🔗 Link Surge
 https://labeninjas-grupo4.surge.sh
 
-## Descrição
+## 📚 Descrição
 Projeto de uma plataforma de marketplace, servindo para dois tipos de clientes: prestadores de serviço e o contratante.
 O site conta com a área de cadastro, lista de serviços, e a do carrinho. 
 Na página de lista de serviços é possível ver os detalhes de cada serviço ofertado.
 
-## Desenvolvedores
+## 👩🏻‍💻 Desenvolvedores
 Ana Sue Sammi; <br/>
 Diane Silva de Araujo; <br/>
 Gabriel Martins; <br/>
 Gabriela Hermenegildo Júnior; <br/>
 Ronald Santiago.
 
-## Funcionalidades
+## 📐 Funcionalidades
 
 ### Header
 Header da plataforma presente em todas as páginas, que conta com o nome do site, um botão para ir para a página Home e outro para ir para a página do Carrinho.
@@ -42,7 +42,7 @@ Os serviços permanecem no carrinho mesmo que a página seja atualizada.
 ### Responsividade
 A plataforma foi criada desktop-first mas é responsiva para qualquer mobile.
 
-## Imagens
+## 📸 Imagens
 ![image](https://user-images.githubusercontent.com/94693150/152598982-4e919c41-fc17-4355-9d93-a2e6853fcb83.png)
 ![image](https://user-images.githubusercontent.com/94693150/152599048-6d24a6dc-76da-4593-ad81-b6805cc494d5.png)
 ![image](https://user-images.githubusercontent.com/94693150/152599184-acb75a15-6fb3-40d0-8d5e-504cf8fae775.png)
@@ -55,5 +55,3 @@ A plataforma foi criada desktop-first mas é responsiva para qualquer mobile.
 ![image](https://user-images.githubusercontent.com/94693150/152602181-f0deb14f-3ebc-4ef8-92fc-7b66b4f8331c.png)
 ![image](https://user-images.githubusercontent.com/94693150/152601613-51536cb9-f2f4-4098-becd-4a5253842e4c.png)
 ![image](https://user-images.githubusercontent.com/94693150/152602772-b71e8762-86d9-4fe8-b6ef-f5c5ccfa0cb0.png)
-
-# Correção
